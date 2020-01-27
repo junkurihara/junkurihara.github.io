@@ -14,10 +14,10 @@ My current research interests are in:
 
 ## Links
 
-- GitHub: https://github.com/junkurihara
-- LinkedIn: https://www.linkedin.com/in/junkurihara/
-- Google Scholar: https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja
-- Slideshare: https://www.slideshare.net/JunKurihara2 (Slides of my talks at Zettant Inc. and other conferences.)
+- [GitHub](https://github.com/junkurihara)
+- [LinkedIn](https://www.linkedin.com/in/junkurihara/)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
+- [Slideshare](https://www.slideshare.net/JunKurihara2) (Slides of my talks at Zettant Inc. and other conferences.)
 
 ## Contact
 
