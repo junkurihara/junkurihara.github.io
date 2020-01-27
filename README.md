@@ -12,6 +12,13 @@ My current research interests are in:
 - Edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 
+
+## Selected Publication
+
+### Coding theory and its application to security techniques
+
+- J. Kurihara, T. Uyematsu and R. Matsumoto, ''Secret Sharing Schemes Based on Linear Codes Can Be Precisely Characterized by the Relative Generalized Hamming Weight,'' IEICE Trans. Fundamentals, vol. E95-A, no. 11, pp. 2067-2075, Nov. 2012. [Online] Avaliable at [here](./repo/ieice-e95-a_11_2067.pdf). (Copyright IEICE)
+
 ## Links
 
 - [GitHub](https://github.com/junkurihara)
