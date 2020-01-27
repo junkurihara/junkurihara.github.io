@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# SecArch Lab
+
+## Security Architecture Lab, Graduate School of Applied Informatics, University of Hyogo
 
 You can use the [editor on GitHub](https://github.com/junkurihara/junkurihara.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
