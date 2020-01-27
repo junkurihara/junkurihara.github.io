@@ -23,7 +23,7 @@ My current research interests are in:
 
 ### New networking and computing architecture and its security
 
-- J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520-2531, Dec. 2016. [Online] Available at [here](./repo/ieice-e99-b_12_2520.pdf)
+- J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520-2531, Dec. 2016. [Online] Available at [here](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
 - J. Kurihara, E. Uzun and C. A. Wood, ''An Encryption-based Access Control Framework for Content-Centric Networking,'' Proc. IFIP Networking 2015, May 2015, pp. 1-9. [Online] Available at [ifip.org](http://dl.ifip.org/db/conf/networking/networking2015/1570063455.pdf).
 
 ## Links
