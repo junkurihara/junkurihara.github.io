@@ -9,7 +9,7 @@ My detailed CV is given here: [[pdf at github.com]](https://github.com/junkuriha
 My current research interests are in:
 
 - Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
-- Edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure communication and computation, privacy-preserving computation at untrusted third-party edge environment.
+- New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 
 
@@ -17,14 +17,14 @@ My current research interests are in:
 
 ### Coding theory and its application to security techniques
 
-- J. Kurihara, R. Matsumoto and T. Uyematsu, ''Relative Generalized Rank Weight of Linear Codes and Its Applications to Network Coding,'' IEEE Trans. Information Theory, vol. 61, no 7, pp. 3912--3936, Jul. 2015. [Online] Available at [Arxiv](https://arxiv.org/abs/1301.5482).
-- J. Kurihara, T. Uyematsu and R. Matsumoto, ''Secret Sharing Schemes Based on Linear Codes Can Be Precisely Characterized by the Relative Generalized Hamming Weight,'' IEICE Trans. Fundamentals, vol. E95-A, no. 11, pp. 2067--2075, Nov. 2012. [Online] Avaliable at [here](./repo/ieice-e95-a_11_2067.pdf) (Copyright IEICE). [Introduction in Japanese](https://www.jstage.jst.go.jp/article/essfr/9/1/9_14/_pdf).
-- J. Kurihara, S. Kiyomoto, K. Fukushima and T. Tanaka, ''On a Fast (k,n)-threshold Secret Sharing Scheme,'' IEICE Trans. Fundamentals, vol. E91-A, no. 9, pp. 2365--2378, Sep. 2008. [Online] Available at [here](./repo/ieice-e91-a_09_2365.pdf) (Copyright IEICE).
+- J. Kurihara, R. Matsumoto and T. Uyematsu, ''Relative Generalized Rank Weight of Linear Codes and Its Applications to Network Coding,'' IEEE Trans. Information Theory, vol. 61, no 7, pp. 3912--3936, Jul. 2015. [Online] Available at [Arxiv](https://arxiv.org/abs/1301.5482). [[Slides at SITA2014](./repo/sita-2014_slides.pdf) (in Japanese)]
+- J. Kurihara, T. Uyematsu and R. Matsumoto, ''Secret Sharing Schemes Based on Linear Codes Can Be Precisely Characterized by the Relative Generalized Hamming Weight,'' IEICE Trans. Fundamentals, vol. E95-A, no. 11, pp. 2067--2075, Nov. 2012. [Online] Avaliable [here](./repo/ieice-e95-a_11_2067.pdf) (Copyright IEICE). [[Review paper](https://www.jstage.jst.go.jp/article/essfr/9/1/9_14/_pdf) (in Japanese)].
+- J. Kurihara, S. Kiyomoto, K. Fukushima and T. Tanaka, ''On a Fast (k,n)-threshold Secret Sharing Scheme,'' IEICE Trans. Fundamentals, vol. E91-A, no. 9, pp. 2365--2378, Sep. 2008. [Online] Available [here](./repo/ieice-e91-a_09_2365.pdf) (Copyright IEICE).
 
 ### New networking and computing architecture and its security
 
 - K. Ueda, K. Yokota, J. Kurihara and A. Tagami, ''Two-level Named Packet Forwarding for Enhancing the Performance of Virtualized ICN Router,'' IEICE Trans. Communications, vol. E102-B, no. 9, pp. 1813--1821, Sep. 2019.
-- J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available at [here](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
+- J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available [here](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
 - J. Kurihara, K. Yokota and A. Tagami, ''A Consumer-driven Access Control Approach to Censorship Circumvention in Content-Centric Networking,'' in Proc. ACM ICN 2016, Sep. 2016, pp. 186--194. [Online] Available at [sigcomm.org](http://conferences2.sigcomm.org/acm-icn/2016/proceedings/p186-kurihara.pdf).
 - J. Kurihara, E. Uzun and C. A. Wood, ''An Encryption-based Access Control Framework for Content-Centric Networking,'' in Proc. IFIP Networking 2015, May 2015, pp. 1--9. [Online] Available at [ifip.org](http://dl.ifip.org/db/conf/networking/networking2015/1570063455.pdf).
 
