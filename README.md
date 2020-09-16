@@ -32,6 +32,11 @@ My current research interests are in:
 - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
 - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
 
+## Grants
+
+- JSPS KAKENHI Grant 2020--2021, PI
+- University of Hyogo special grant for young researchers, 2020, PI
+
 ## Links
 
 - [GitHub](https://github.com/junkurihara)
