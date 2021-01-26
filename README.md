@@ -29,8 +29,14 @@ My current research interests are in:
 
 ## Lectures
 
-- Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
-- Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
+- 2021
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021,U-Hyogo)
+  - Network Security / ネットワークセキュリティ特論 (Spring 2021, U-Hyogo)
+  - Information Security / 情報セキュリティ科学概論 (Spring 2021,U-Hyogo)
+
+- 2020
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
+  - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
 
 ## Grants
 
