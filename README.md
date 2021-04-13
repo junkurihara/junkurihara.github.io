@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am currently an Associate Professor at [Graduate School of Applied Informatics, University of Hyogo](https://www.ai.u-hyogo.ac.jp/english/), Japan since Jan. 2020. I am also a Principal Researcher at [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
+I am currently an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020. I am also a Principal Researcher at [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
