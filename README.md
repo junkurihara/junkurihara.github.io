@@ -51,7 +51,6 @@ My current research interests are in:
 - [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/junkurihara)
 - [Slideshare](https://www.slideshare.net/JunKurihara2) (Slides of my talks at Zettant Inc. and other conferences.)
-- [Twitter](https://twitter.com/secarchlab) (Not interesting, I don't like recent twitter culture)
 
 ## Contact
 
