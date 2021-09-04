@@ -6,11 +6,12 @@ I am currently a Principal Researcher (Softoware Engineer) at [Zettant Inc.](htt
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
-My current research interests are in:
+My current development projects and research interests are in:
 
 - Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
 - New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
+- Privacy and security in Domain Name Systems (DNS) on the Internet.
 
 ## Selected Publication
 
