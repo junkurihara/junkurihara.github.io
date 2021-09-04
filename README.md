@@ -42,7 +42,7 @@ My current research interests are in:
 ## Grants
 
 - JSPS KAKENHI Grant 2020--2021, PI
-- University of Hyogo special grant for young researchers, 2020, PI
+- University of Hyogo special grant for young researchers, 2020PI, 2021PI
 
 ## Links
 
