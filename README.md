@@ -39,6 +39,7 @@ My current development projects and research interests are in:
 - 2020
   - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
   - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
+  - FIDO2 --Modern Authentication-- (Zettant)
 
 ## Grants
 
