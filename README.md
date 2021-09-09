@@ -41,6 +41,9 @@ My current development projects and research interests are in:
   - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
   - FIDO2 --Modern Authentication-- (Zettant)
 
+- 2019
+  - Introduction to End-to-End Encryption using JavaScript (Zettant)
+
 ## Grants
 
 - JSPS KAKENHI Grant 2020--2021PI, 2021--2023Co (PI: Prof. Koizumi)
