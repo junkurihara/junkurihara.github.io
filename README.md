@@ -60,4 +60,4 @@ My current development projects and research interests are in:
 
 ## Contact
 
-Please send me a message through [my LinkedIn page](https://www.linkedin.com/in/junkurihara/), or my university address: kurihara (at) ai (dot) u (hyphen) hyogo (dot) ac (dot) jp.
+Please send me a message through [my LinkedIn page](https://www.linkedin.com/in/junkurihara/), or email found in my recent papers,
