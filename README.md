@@ -24,6 +24,7 @@ My current development projects and research interests are in:
 
 ### New networking and computing architecture and its security
 
+- R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022).
 - K. Ueda, K. Yokota, J. Kurihara and A. Tagami, ''Two-level Named Packet Forwarding for Enhancing the Performance of Virtualized ICN Router,'' IEICE Trans. Communications, vol. E102-B, no. 9, pp. 1813--1821, Sep. 2019.
 - J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available [here (pdf)](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
 - J. Kurihara, K. Yokota and A. Tagami, ''A Consumer-driven Access Control Approach to Censorship Circumvention in Content-Centric Networking,'' in Proc. ACM ICN 2016, Sep. 2016, pp. 186--194. [Online] Available at [sigcomm.org (pdf)](http://conferences2.sigcomm.org/acm-icn/2016/proceedings/p186-kurihara.pdf).
