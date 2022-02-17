@@ -13,6 +13,12 @@ My current development projects and research interests are in:
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 - Privacy and security in Domain Name Systems (DNS) on the Internet.
 
+## (Open Source) Software Projects
+
+- Mutualized Oblivious DNS: [https://dns.secarchlab.net](https://dns.secarchlab.net)
+- jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
+- etc... See [my GitHub](https://github.com/junkurihara/)
+
 ## Selected Publication
 
 ### Coding theory and its application to security techniques
