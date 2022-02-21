@@ -16,6 +16,7 @@ My current development projects and research interests are in:
 ## (Open Source) Software Projects
 
 - Mutualized Oblivious DNS: [https://dns.secarchlab.net](https://dns.secarchlab.net)
+- rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
 - jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
 - etc... See [my GitHub](https://github.com/junkurihara/)
 
