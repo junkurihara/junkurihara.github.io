@@ -55,8 +55,13 @@ My current development projects and research interests are in:
 ## Grants
 
 - KDDI Foundation Grant 2022-2024PI
-- JSPS KAKENHI Grant 2020--2021PI, 2021--2023Co (PI: Prof. Koizumi)
-- University of Hyogo special grant for young researchers, 2020PI, 2021PI
+- JSPS KAKENHI Grant-in-Aid for:
+  - Scientific Research C 2022--2024PI
+  - Scientific Research B 2021--2023Co (PI: Prof. Koizumi @Osaka Univ.)
+  - Start-up 2020--2021PI
+- University of Hyogo special grant for young researchers
+  - 2021PI
+  - 2020PI
 
 ## Links
 
