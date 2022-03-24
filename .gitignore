@@ -13,3 +13,7 @@ thumbs.db
 *.dvi
 *.aux
 *.vrb
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*_temp.tex
