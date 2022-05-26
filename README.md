@@ -8,19 +8,19 @@ My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
 My current development projects and research interests are in:
 
-- Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
 - New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
-- Privacy and security in Domain Name Systems (DNS) on the Internet.
+- Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
+- Privacy and security in Domain Name Systems (DNS) on the Internet and Internet services.
 
-## (Open Source) Software Projects
+## (Open Source) Software Development Projects
 
 - Mutualized Oblivious DNS: [https://dns.secarchlab.net](https://dns.secarchlab.net)
 - rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
 - jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
 - etc... See [my GitHub](https://github.com/junkurihara/)
 
-## Selected Publication
+## Selected Publication as a Researcher
 
 ### Coding theory and its application to security techniques
 
@@ -37,7 +37,7 @@ My current development projects and research interests are in:
 - J. Kurihara, K. Yokota and A. Tagami, ''A Consumer-driven Access Control Approach to Censorship Circumvention in Content-Centric Networking,'' in Proc. ACM ICN 2016, Sep. 2016, pp. 186--194. [Online] Available at [sigcomm.org (pdf)](http://conferences2.sigcomm.org/acm-icn/2016/proceedings/p186-kurihara.pdf).
 - J. Kurihara, E. Uzun and C. A. Wood, ''An Encryption-based Access Control Framework for Content-Centric Networking,'' in Proc. IFIP Networking 2015, May 2015, pp. 1--9. [Online] Available at [ifip.org (pdf)](http://dl.ifip.org/db/conf/networking/networking2015/1570063455.pdf).
 
-## Lectures
+## Lectures and Seminars
 
 - 2021
   - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021,U-Hyogo)
@@ -69,8 +69,7 @@ My current development projects and research interests are in:
 - [LinkedIn](https://www.linkedin.com/in/junkurihara/)
 - [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/junkurihara)
-- [Slideshare](https://www.slideshare.net/JunKurihara2) (Slides of my talks at Zettant Inc. and other conferences.)
-- [Lab](https://secarchlab.github.io/)
+- [Slideshare](https://www.slideshare.net/JunKurihara2)
 
 ## Contact
 
