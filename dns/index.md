@@ -4,13 +4,14 @@
 
 This is a web site introducing a new concept of anonymized DNS, called **Mutualized Oblivious DNS** (μODNS). Our implementation, public servers and their detailed information are given below."
 
+---
+
 ## Publication
 
 ### Initial concept paper
 
 > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," Jun. 2021.
 > [https://arxiv.org/abs/2104.13785v3](https://arxiv.org/abs/2104.13785v3)
-
 
 ### Presentation slides
 
@@ -44,15 +45,15 @@ Currently we are testing its feasibility and writing a paper.
 
 ---
 
-## PoC implementation based on `Dnscrypt` protocol:
+## PoC implementation based on `Dnscrypt` protocol
 
-### Do53 - μODNS translation proxy (fork of `dnscrypt-proxy`):
+### Do53 - μODNS translation proxy (fork of `dnscrypt-proxy`)
 
 - (Source) [https://github.com/junkurihara/dnscrypt-proxy-modns](https://github.com/junkurihara/dnscrypt-proxy-modns)
 
 - (Docker) [https://hub.docker.com/r/jqtype/dnscrypt-proxy-modns](https://hub.docker.com/r/jqtype/dnscrypt-proxy-modns)
 
-### μODNS servers based on `encrypted-dns-server`:
+### μODNS servers based on `encrypted-dns-server`
 
 - (Source) [https://github.com/junkurihara/encrypted-dns-server-modns](https://github.com/junkurihara/encrypted-dns-server-modns)
 
@@ -66,7 +67,7 @@ Currently we are testing its feasibility and writing a paper.
 
 ---
 
-## Public DoH Server as an Entry of μODNS"
+## Public DoH Server as an Entry of μODNS
 
 If you want to just check if it works, you can try our DoH-μODNS translator from Chrome and Firefox browsers without using our [dedicated client](https://github.com/junkurihara/dnscrypt-proxy-modns).
 
@@ -79,3 +80,5 @@ Target full-service resolvers are ones listed in this repo and Quad9 servers of 
 NOTE: Although our experimental resolvers and relays are ones with no log and no filter, the DoH-μODNS filters some content by using public ad lists and logs blocking histories.
 
 Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of μODNS, you should build your dedicated relay. Also note that it is not guaranteed that our translator works 24/365.
+
+**[[Back to top]](../)**
