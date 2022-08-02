@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I am currently a Principal Researcher (Software Engineer) at [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA from 2013-2014, and with CyLab, Carnegie Mellon University, PA, USA in 2022 as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
+I am a software engineer in networking, computing architecture, and security & privacy in networking. Currently I am working for [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018 as a Principal Researcher. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA from 2013 to 2014, and with CyLab, Carnegie Mellon University, PA, USA in 2022 as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
@@ -15,8 +15,8 @@ My current development projects and research interests are in:
 
 ## (Open Source) Software Development Projects
 
-- Mutualized Oblivious DNS (&mu;ODNS): [https://junkurihara.github.io/dns/](./dns/)
-- rpxy - A simple and ultrafast reverse-proxy for multiple host names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
+- Mutualized Oblivious DNS (&mu;ODNS) project: [https://junkurihara.github.io/dns/](./dns/)
+- rpxy - A simple and ultrafast reverse-proxy for multiple domain names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
 - rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
 - jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
 - etc... See [my GitHub](https://github.com/junkurihara/)
@@ -39,6 +39,9 @@ My current development projects and research interests are in:
 - J. Kurihara, E. Uzun and C. A. Wood, ''An Encryption-based Access Control Framework for Content-Centric Networking,'' in Proc. IFIP Networking 2015, May 2015, pp. 1--9. [Online] Available at [ifip.org (pdf)](http://dl.ifip.org/db/conf/networking/networking2015/1570063455.pdf).
 
 ## Lectures and Seminars
+
+- 2022
+  - Information Security / 情報セキュリティ科学概論 (Spring 2022,U-Hyogo)
 
 - 2021
   - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021,U-Hyogo)
