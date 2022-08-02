@@ -2,20 +2,21 @@
 
 ## Who am I?
 
-I am currently a Principal Researcher (Software Engineer) at [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. Currently I am also a visiting researcher at CyLab, Carnegie Mellon University, PA, USA from March 2022. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
+I am currently a Principal Researcher (Software Engineer) at [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA from 2013-2014, and with CyLab, Carnegie Mellon University, PA, USA in 2022 as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
 My current development projects and research interests are in:
 
+- Privacy and security in Domain Name Systems (DNS) on the Internet and Internet services.
 - New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 - Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
-- Privacy and security in Domain Name Systems (DNS) on the Internet and Internet services.
 
 ## (Open Source) Software Development Projects
 
-- Mutualized Oblivious DNS: [https://junkurihara.github.io/dns/](./dns/)
+- Mutualized Oblivious DNS (&mu;ODNS): [https://junkurihara.github.io/dns/](./dns/)
+- rpxy - A simple and ultrafast reverse-proxy for multiple host names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
 - rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
 - jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
 - etc... See [my GitHub](https://github.com/junkurihara/)
