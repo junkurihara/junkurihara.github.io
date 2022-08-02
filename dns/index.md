@@ -41,7 +41,7 @@ To protect DNS servers and relays from DoS attacks, authentication is introduced
 
 ### Public relays and servers
 
-Currently we are testing its feasibility and writing a paper.
+Currently we are testing its feasibility.
 
 ---
 
