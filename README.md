@@ -2,18 +2,20 @@
 
 ## Who am I?
 
-I am a software engineer in networking, computing architecture, and security & privacy in networking. Currently I am working for [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018 as a Principal Researcher. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA from 2013 to 2014, and with CyLab, Carnegie Mellon University, PA, USA in 2022 as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
+I am a software engineer in networking, communication architecture, and security & privacy in network. Currently I am working for [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018 as a Principal Researcher. I am also an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan since Jan. 2020, and a Visiting Scholar at [ATR Inc.](https://www.atr.jp/), Japan since May. 2020. I have been working for KDDI Corp. and KDDI R&D Labs., Inc. (Now KDDI Research, Inc.), Japan from Apr. 2006 to Dec. 2017 as a strategic planner and a researcher for security, applied mathematics and networking architecture. I had been with Palo Alto Research Center (PARC), CA, USA from 2013 to 2014, and with CyLab, Carnegie Mellon University, PA, USA in 2022 as a visiting researcher. I received BE, ME, and PhD in Engineering all from Tokyo Institute of Technology in 2004, 2006 and 2012, respectively.
 
 My detailed CV is given [here (pdf)](./cv/cv-en.pdf).
 
 My current development projects and research interests are in:
 
-- Privacy and security in Domain Name Systems (DNS) on the Internet and Internet services.
+- Privacy and security in Domain Name Systems (DNS), and other related systems on the Internet and Internet services.
 - New computing and networking architecture and so-called 'security-by-design'. Currently, I am interested in edge computing architecture, its security and privacy, e.g., new theoretical (and mathematical) framework of secure in-networking communication and computation, privacy-preserving computation at untrusted third-party edge environment.
 - Information-centric networking (Named-data networking; NDN) and its brand-new security mechanisms, e.g., security in edge named function environment.
 - Information security and privacy mechanisms using coding theoretic techniques, e.g., secret sharing, private information retrieval, etc.
 
-## (Open Source) Software Development Projects
+## Software Development Projects
+
+Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 - Mutualized Oblivious DNS (&mu;ODNS) project: [https://junkurihara.github.io/dns/](./dns/)
 - rpxy - A simple and ultrafast reverse-proxy for multiple domain names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
@@ -32,7 +34,7 @@ My current development projects and research interests are in:
 
 ### New networking and computing architecture and its security
 
-- R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' to Appear in the 36-th International Conference on Advanced Information Networking and Applications (AINA 2022).
+- R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' Proc. AINA 2022, pp. 67--179, Apr. 2022.
 - K. Ueda, K. Yokota, J. Kurihara and A. Tagami, ''Two-level Named Packet Forwarding for Enhancing the Performance of Virtualized ICN Router,'' IEICE Trans. Communications, vol. E102-B, no. 9, pp. 1813--1821, Sep. 2019.
 - J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available [here (pdf)](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
 - J. Kurihara, K. Yokota and A. Tagami, ''A Consumer-driven Access Control Approach to Censorship Circumvention in Content-Centric Networking,'' in Proc. ACM ICN 2016, Sep. 2016, pp. 186--194. [Online] Available at [sigcomm.org (pdf)](http://conferences2.sigcomm.org/acm-icn/2016/proceedings/p186-kurihara.pdf).
@@ -41,6 +43,8 @@ My current development projects and research interests are in:
 ## Lectures and Seminars
 
 - 2022
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2022,U-Hyogo)
+  - Network Security / ネットワークセキュリティ特論 (Spring 2022, U-Hyogo)
   - Information Security / 情報セキュリティ科学概論 (Spring 2022,U-Hyogo)
 
 - 2021
@@ -63,9 +67,7 @@ My current development projects and research interests are in:
   - Scientific Research C 2022--2024PI
   - Scientific Research B 2021--2023Co (PI: Prof. Koizumi @Osaka Univ.)
   - Start-up 2020--2021PI
-- University of Hyogo special grant for young researchers
-  - 2021PI
-  - 2020PI
+- University of Hyogo special grant for young researchers (2021PI, 2020PI)
 
 ## Links
 
