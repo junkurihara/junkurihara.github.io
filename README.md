@@ -67,7 +67,7 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
   - Scientific Research C 2022--2024PI
   - Scientific Research B 2021--2023Co (PI: Prof. Koizumi @Osaka Univ.)
   - Start-up 2020--2021PI
-- University of Hyogo special grant for young researchers (2021PI, 2020PI)
+- University of Hyogo special grant for young researchers 2021PI, 2020PI
 
 ## Links
 
