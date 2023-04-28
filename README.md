@@ -43,18 +43,23 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 ## Lectures and Seminars
 
+- 2023
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2023, U-Hyogo)
+  - Network Security / ネットワークセキュリティ特論 (Spring 2023, U-Hyogo)
+  - Information Security / 情報セキュリティ科学概論 (Spring 2023, U-Hyogo)
+
 - 2022
-  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2022,U-Hyogo)
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2022, U-Hyogo)
   - Network Security / ネットワークセキュリティ特論 (Spring 2022, U-Hyogo)
-  - Information Security / 情報セキュリティ科学概論 (Spring 2022,U-Hyogo)
+  - Information Security / 情報セキュリティ科学概論 (Spring 2022, U-Hyogo)
 
 - 2021
-  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021,U-Hyogo)
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2021, U-Hyogo)
   - Network Security / ネットワークセキュリティ特論 (Spring 2021, U-Hyogo)
-  - Information Security / 情報セキュリティ科学概論 (Spring 2021,U-Hyogo)
+  - Information Security / 情報セキュリティ科学概論 (Spring 2021, U-Hyogo)
 
 - 2020
-  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020,U-Hyogo)
+  - Security Engineering / セキュリティエンジニアリング特論 (Fall 2020, U-Hyogo)
   - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
   - FIDO2 --Modern Authentication-- (Zettant)
 
@@ -63,11 +68,12 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 ## Grants
 
+- NSF-NICT JUNO 3 2022--2025Co
 - KDDI Foundation Grant 2022-2024PI
 - JSPS KAKENHI Grant-in-Aid for:
-  - Scientific Research C 2022--2024PI
-  - Scientific Research B 2021--2023Co (PI: Prof. Koizumi @Osaka Univ.)
-  - Start-up 2020--2021PI
+  - Scientific Research C 2022--2025PI
+  - Scientific Research B 2021--2024Co (PI: Prof. Koizumi @Osaka Univ.)
+  - Start-up 2020--2022PI
 - University of Hyogo special grant for young researchers 2021PI, 2020PI
 
 ## Links
