@@ -34,6 +34,7 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 ### New networking and computing architecture and its security
 
+- R. Watanabe, A. Kubota and J. Kurihara, ''Application of Generalized Deduplication Techniques in Edge Computing Environments,'' Proc. AINA 2023, pp. 585--596, Mar. 2023.
 - R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' Proc. AINA 2022, pp. 67--179, Apr. 2022.
 - K. Ueda, K. Yokota, J. Kurihara and A. Tagami, ''Two-level Named Packet Forwarding for Enhancing the Performance of Virtualized ICN Router,'' IEICE Trans. Communications, vol. E102-B, no. 9, pp. 1813--1821, Sep. 2019.
 - J. Kurihara, K. Yokota and A. Tagami, ''List Interest: Simply Packing Interests Dramatically Reduces Router Workload in Content-Centric Networking,'' IEICE Trans. Communications, vol. E99-B, no. 12, pp. 2520--2531, Dec. 2016. [Online] Available [here (pdf)](./repo/ieice-e99-b_12_2520.pdf) (Copyright IEICE).
