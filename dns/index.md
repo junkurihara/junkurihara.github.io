@@ -43,6 +43,9 @@ To protect DNS servers and relays from DoS attacks, authentication is introduced
 
 Currently we are testing its feasibility.
 
+### Acknowledment
+The work on this extension of ODoH to MoDoH is partially supported by NICT22401, JSPS KAKENHI Grant Number JP22K11994, JP21H03442, and KDDI Foundation Research Grant.
+
 ---
 
 ## PoC implementation based on `Dnscrypt` protocol
