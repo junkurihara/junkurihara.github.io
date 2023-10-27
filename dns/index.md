@@ -8,7 +8,9 @@ This is a web site introducing a new concept of anonymized DNS, called **Mutuali
 
 ## Publication
 
-### Initial concept paper
+### Research articles
+
+> Jun Kurihara, Takeshi Kubo and Toshiaki Tanaka, ''&mu;ODNS: A Distributed Approach to DNS Anonymization with Collusion Resistance,'' accepted for publication at Computer Networks, Elsevier, 2023.
 
 > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," Jun. 2021.
 > [https://arxiv.org/abs/2104.13785v3](https://arxiv.org/abs/2104.13785v3)
