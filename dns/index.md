@@ -10,15 +10,16 @@ This is a web site introducing a new concept of anonymized DNS, called **Mutuali
 
 ### Research articles
 
-> Jun Kurihara, Takeshi Kubo and Toshiaki Tanaka, ''&mu;ODNS: A Distributed Approach to DNS Anonymization with Collusion Resistance,'' accepted for publication at Computer Networks, Elsevier, 2023.
+- Extended journal paper:
+  > Jun Kurihara, Toshiaki Tanaka, and Takeshi Kubo, "μODNS: A Distributed Approach to DNS Anonymization with Collusion Resistance," *Computer Networks*, Elsevier, vol. 237, p. 110078, Dec. 2023. [Online] Available at [https://doi.org/10.1016/j.comnet.2023.110078](https://doi.org/10.1016/j.comnet.2023.110078).
 
-> Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," Jun. 2021.
-> [https://arxiv.org/abs/2104.13785v3](https://arxiv.org/abs/2104.13785v3)
+- Initial concept paper:
+  > Jun Kurihara and Takeshi Kubo, "Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest," [https://arxiv.org/abs/2104.13785v3](https://arxiv.org/abs/2104.13785v3), Jun. 2021
 
 ### Presentation slides
 
-> Jun Kurihara and Takeshi Kubo, "Mutualized Oblivious DNS (μODNS): Hiding a tree in the wild forest", IEICE NS, Jul. 2021. (in Japanese)
-> [https://www.slideshare.net/JunKurihara2/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576](https://www.slideshare.net/JunKurihara2/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576)
+- Initial &mu;ODNS concept.
+  > Jun Kurihara and Takeshi Kubo, "Mutualized Oblivious DNS (μODNS): Hiding a tree in the wild forest", IEICE NS, Jul. 2021. (in Japanese) [[Slideshare]](https://www.slideshare.net/JunKurihara2/mutualized-oblivious-dns-odns-hiding-a-tree-in-the-wild-forest-249693576)
 
 ---
 
