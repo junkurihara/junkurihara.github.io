@@ -32,10 +32,12 @@ We sometimes call this ODoH-based protocol and implementation by **μODoH** or *
 - (Source) [https://github.com/junkurihara/doh-auth-proxy](https://github.com/junkurihara/doh-auth-proxy)
 - (Docker) [https://hub.docker.com/r/jqtype/doh-auth-proxy](https://hub.docker.com/r/jqtype/doh-auth-proxy)
 
-### μODoH relays and target servers with authentication and access control (fork of `doh-server`)
+### μODoH relays and target servers with authentication and access control
 
-- (Source) [https://github.com/junkurihara/doh-server](https://github.com/junkurihara/doh-server)
-- (Docker) [https://hub.docker.com/r/jqtype/doh-server](https://hub.docker.com/r/jqtype/doh-server) (`multiple_relays` image)
+- (Source) [https://github.com/junkurihara/modoh-server](https://github.com/junkurihara/modoh-server)
+- (Docker) [https://hub.docker.com/r/jqtype/modoh-server](https://hub.docker.com/r/jqtype/modoh-server)
+
+(Replaced [fork of `doh-server`](https://github.com/junkurihara/doh-server))
 
 To protect DNS servers and relays from DoS attacks, authentication is introduced at the first hop relay. So, in addition to the above relay/target, authentication server is needed as below.
 
