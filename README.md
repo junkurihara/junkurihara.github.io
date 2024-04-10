@@ -34,7 +34,7 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 ### New networking and computing architecture and its security
 
-- R. Watanabe, A. Kubota, J. Kurihara, and K. Sakurai, ''Extension o fResource Authorization Method with SSI in Edge Computing,'' Proc. AINA 2024, vol. 6, pp. 385–394, Apr. 2024.
+- R. Watanabe, A. Kubota, J. Kurihara, and K. Sakurai, ''Extension of Resource Authorization Method with SSI in Edge Computing,'' Proc. AINA 2024, vol. 6, pp. 385–394, Apr. 2024.
 - J. Kurihara, T. Tanaka and T. Kubo, ''&mu;ODNS: A Distributed Approach to DNS Anonymization with Collusion Resistance,'' Computer Networks, Elsevier, vol. 237, p. 110078, Dec. 2023. [Online] Available at [ScienceDirect](https://doi.org/10.1016/j.comnet.2023.110078) and [here (pdf)](./repo/computer-networks_237_110078.pdf).
 - R. Watanabe, A. Kubota and J. Kurihara, ''Application of Generalized Deduplication Techniques in Edge Computing Environments,'' Proc. AINA 2023, pp. 585--596, Mar. 2023.
 - R. Watanabe, A. Kubota and J. Kurihara, ''Resource Authorization Methods for Edge Computing,'' Proc. AINA 2022, pp. 67--179, Apr. 2022.
