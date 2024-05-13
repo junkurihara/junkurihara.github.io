@@ -46,6 +46,10 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 ## Lectures and Seminars
 
+- 2024 (in progress)
+  - Network Security / ネットワークセキュリティ特論 (Spring 2024, U-Hyogo)
+  - Information Security / 情報セキュリティ科学概論 (Spring 2024, U-Hyogo)
+
 - 2023
   - Security Engineering / セキュリティエンジニアリング特論 (Fall 2023, U-Hyogo)
   - Network Security / ネットワークセキュリティ特論 (Spring 2023, U-Hyogo)
