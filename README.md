@@ -18,7 +18,7 @@ My current development projects and research interests are in:
 Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 
 - Mutualized Oblivious DNS (&mu;ODNS) project: [https://junkurihara.github.io/dns/](./dns/)
-- rpxy - A simple and ultrafast reverse-proxy for multiple domain names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy)
+- rpxy - A simple and ultrafast reverse-proxy for multiple domain names with TLS termination, written in pure Rust [https://github.com/junkurihara/rust-rpxy](https://github.com/junkurihara/rust-rpxy) [https://rpxy.io](https://rpxy.io)
 - rust-gd - A Rust Implementation of Generalized Deduplication [https://github.com/junkurihara/rust-gd](https://github.com/junkurihara/rust-gd)
 - jscu - A Universal Cryptographic Library for JavaScript: [https://github.com/junkurihara/jscu](https://github.com/junkurihara/jscu)
 - etc... See [my GitHub](https://github.com/junkurihara/)
