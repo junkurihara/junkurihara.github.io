@@ -47,15 +47,10 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 ## Lectures and Seminars
 
 - Security Engineering / セキュリティエンジニアリング特論 (Fall, 2020--2024, U-Hyogo)
-
 - Network Security / ネットワークセキュリティ特論 (Spring, 2021--2024, U-Hyogo)
-
 - Information Security / 情報セキュリティ科学概論 (Spring, 2021--2024, U-Hyogo)
-
 - Information Security / 情報セキュリティ論 (Spring 2020, U-Hyogo)
-
 - FIDO2 --Modern Authentication-- (2020, Zettant)
-
 - Introduction to End-to-End Encryption using JavaScript (2019, Zettant)
 
 ## Grants
