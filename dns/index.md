@@ -77,16 +77,19 @@ The work on this extension of ODoH to MoDoH is partially supported by NICT22401,
 
 ## Public DoH Server as an Entry of μODNS
 
-If you want to just check if it works, you can try our DoH-μODNS translator from Chrome and Firefox browsers without using our [dedicated client](https://github.com/junkurihara/dnscrypt-proxy-modns).
+> **THIS SERVICE IS NOT AVAILABLE NOW.**
+> Please use our Do53-μODoH translator locally instead.
 
-This translator converts DoH queries to PoC μODNS queries. It first works as the 'first-hop' relay of μODNS, and randomly choose subsequent (up to 2) relays from listed relays for user anonymity in DNS queries. The DoH address is:
+~~If you want to just check if it works, you can try our DoH-μODNS translator from Chrome and Firefox browsers without using our [dedicated client](https://github.com/junkurihara/dnscrypt-proxy-modns).~~
 
-> [https://dns.secarchlab.net/dns-query](https://dns.secarchlab.net/dns-query)
+~~This translator converts DoH queries to PoC μODNS queries. It first works as the 'first-hop' relay of μODNS, and randomly choose subsequent (up to 2) relays from listed relays for user anonymity in DNS queries. The DoH address is:~~
 
-Target full-service resolvers are ones listed in this repo and Quad9 servers of no-filters.
+~~> [https://dns.secarchlab.net/dns-query](https://dns.secarchlab.net/dns-query)~~
 
-NOTE: Although our experimental resolvers and relays are ones with no log and no filter, the DoH-μODNS filters some content by using public ad lists and logs blocking histories.
+~~Target full-service resolvers are ones listed in this repo and Quad9 servers of no-filters.~~
 
-Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of μODNS, you should build your dedicated relay. Also note that it is not guaranteed that our translator works 24/365.
+~~NOTE: Although our experimental resolvers and relays are ones with no log and no filter, the DoH-μODNS filters some content by using public ad lists and logs blocking histories.~~
+
+~~Please use this translator only for testing at your own risk, and do not use this translator for your private activity. From the concept of μODNS, you should build your dedicated relay. Also note that it is not guaranteed that our translator works 24/365.~~
 
 **[[Back to top]](../)**
