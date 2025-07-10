@@ -71,7 +71,8 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 - [Google Scholar](https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja)
 - [Researchmap](https://researchmap.jp/junkurihara)
 - [Slideshare](https://www.slideshare.net/JunKurihara2)
+- [Lab](https://secarchlab.github.io)
 
 ## Contact
 
-Please send me a message through [my LinkedIn page](https://www.linkedin.com/in/junkurihara/), or email found in my recent papers,
+Please send me a message through [my LinkedIn page](https://www.linkedin.com/in/junkurihara/), or email found in my recent papers.
