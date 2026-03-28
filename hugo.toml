@@ -25,17 +25,23 @@ customCSS = []
 customSCSS = ["scss/custom.scss"]
 customJS = []
 
-# [[params.social]]
-# name = "GitHub"
-# icon = "fa-brands fa-github fa-2x"
-# weight = 1
-# url = "https://github.com/junkurihara"
+[[params.social]]
+name = "GitHub"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/junkurihara"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/junkurihara/"
 
 # [[params.social]]
-# name = "LinkedIn"
-# icon = "fa-brands fa-linkedin fa-2x"
-# weight = 2
-# url = "https://www.linkedin.com/in/junkurihara/"
+# name = "ResearchGate"
+# icon = "ai ai-researchgate ai-2x"
+# weight = 3
+# url = "https://www.researchgate.net/profile/Jun-Kurihara"
 
 # [[params.social]]
 # name = "Google Scholar"
