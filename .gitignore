@@ -17,3 +17,8 @@ thumbs.db
 *.fls
 *.fdb_latexmk
 *_temp.tex
+.tmp
+.claude
+public
+.hugo_build.lock
+resources/

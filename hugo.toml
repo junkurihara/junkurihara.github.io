@@ -1,0 +1,126 @@
+title = "Jun Kurihara"
+theme = "hugo-coder"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+pagerSize = 6
+
+[services]
+[services.googleAnalytics]
+id = "G-L7M6SDHH98"
+
+[markup]
+[markup.highlight]
+noClasses = false
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+dateFormat = "January 2, 2006"
+colorScheme = "auto"
+hideColorSchemeToggle = false
+customCSS = []
+customSCSS = ["scss/custom.scss"]
+customJS = []
+
+# [[params.social]]
+# name = "GitHub"
+# icon = "fa-brands fa-github fa-2x"
+# weight = 1
+# url = "https://github.com/junkurihara"
+
+# [[params.social]]
+# name = "LinkedIn"
+# icon = "fa-brands fa-linkedin fa-2x"
+# weight = 2
+# url = "https://www.linkedin.com/in/junkurihara/"
+
+# [[params.social]]
+# name = "Google Scholar"
+# icon = "ai ai-google-scholar ai-2x"
+# weight = 3
+# url = "https://scholar.google.co.jp/citations?user=e0XuwAoAAAAJ&hl=ja"
+
+# [[params.social]]
+# name = "SlideShare"
+# icon = "fa-brands fa-slideshare fa-2x"
+# weight = 4
+# url = "https://slideshare.net/junkurihara2"
+
+# [[params.social]]
+# name = "Speaker Deck"
+# icon = "fa-brands fa-speaker-deck fa-2x"
+# weight = 5
+# url = "https://speakerdeck.com/junkurihara"
+
+# Mount existing cv/ and repo/ directories as Hugo static assets
+[module]
+[[module.mounts]]
+source = "static"
+target = "static"
+[[module.mounts]]
+source = "cv/cv-en.pdf"
+target = "static/cv/cv-en.pdf"
+[[module.mounts]]
+source = "repo"
+target = "static/repo"
+
+# English
+[languages.en]
+languageName = "EN"
+languageCode = "en"
+weight = 1
+
+[languages.en.params]
+author = "Jun KURIHARA (栗原 淳)"
+# info = [
+#   "Principal Researcher, [Zettant Inc.](https://www.zettant.com/)",
+#   "Associate Professor, [Institute of Science Tokyo](https://educ.titech.ac.jp/cs/eng/)",
+# ]
+description = "Personal website of Jun Kurihara — research engineer in security, privacy and networking"
+
+# [[languages.en.menu.main]]
+# name = "CV"
+# url = "/cv/cv-en.pdf"
+# weight = 1
+
+[[languages.en.menu.main]]
+name = "Top"
+url = "/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "μODNS"
+url = "/dns"
+weight = 2
+
+# Japanese
+[languages.ja]
+languageName = "日本語"
+languageCode = "ja"
+weight = 2
+
+[languages.ja.params]
+author = "Jun KURIHARA (栗原 淳)"
+# info = [
+#   "主任研究員、[株式会社Zettant](https://www.zettant.com/)",
+#   "准教授、[東京科学大学 情報理工学院](https://educ.titech.ac.jp/cs/)",
+# ]
+description = "栗原 淳のウェブサイト — ネットワークセキュリティ・プライバシー研究者"
+
+# [[languages.ja.menu.main]]
+# name = "CV"
+# url = "/cv/cv-en.pdf"
+# weight = 1
+
+[[languages.ja.menu.main]]
+name = "Top"
+url = "/"
+weight = 1
+
+[[languages.ja.menu.main]]
+name = "μODNS"
+url = "/ja/dns"
+weight = 2
