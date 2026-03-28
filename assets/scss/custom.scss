@@ -2,3 +2,18 @@
 .content {
   flex-direction: column;
 }
+
+// Override font stack to prioritize Japanese fonts over Chinese ones
+body {
+  font-family:
+    "Noto Sans JP",
+    -apple-system,
+    BlinkMacSystemFont,
+    "Hiragino Sans",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    YuGothic,
+    Meiryo,
+    "Segoe UI",
+    sans-serif;
+}

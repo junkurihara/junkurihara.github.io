@@ -4,7 +4,7 @@ title = "About"
 
 ## About
 
-I am a software engineer in networking, communication architecture, and security & privacy in network.
+I am a software engineer in networking architecture, networking protocols, and security & privacy in network.
 Currently I am working for [Zettant Inc.](https://www.zettant.com/), Japan since Jan. 2018 as a Principal Researcher.
 I am also an Associate Professor at [Department of Computer Science, School of Computing, Institute of Science Tokyo](https://educ.titech.ac.jp/cs/eng/), Japan since Jan. 2026.
 Before that, I was an Associate Professor at [Graduate School of Information Science, University of Hyogo](https://www.u-hyogo.ac.jp/gsis/index_en.html), Japan from Jan. 2020 to Dec. 2025.
@@ -80,7 +80,7 @@ Most of them are Free/Libre and Open Source Software (FLOSS) projects.
 - JSPS KAKENHI:
   - Grant-in-Aid for Scientific Research (B), 2025--2028 (PI)
   - Grant-in-Aid for Scientific Research (C), 2022--2025 (PI)
-  - Grant-in-Aid for Scientific Research (B), 2021--2024 (Co; PI: Prof. Koizumi, Osaka Univ.)
+  - Grant-in-Aid for Scientific Research (B), 2021--2024 (Co; PI: Prof. Koizumi @Osaka Univ.)
   - Grant-in-Aid for Research Activity Start-up, 2020--2022 (PI)
 - University of Hyogo special grant for young researchers, 2021 (PI), 2020 (PI)
 
